@@ -1,0 +1,19 @@
+== JS History
+== where js code is written
+== Variables
+== Datatype
+--- Primitive datatype 
+-- reference datatype
+-- falsy Values
+-- truthy Values
+-- Operators 
+    -- Arthim Operators 
+    -- assignment Operators
+    -- logical Operators
+    -- comparasion Operators 
+    -- short circuit
+
+-- control flow
+-- Ternary Operators
+-- Communication with user
+-- Regex in js (self study)
