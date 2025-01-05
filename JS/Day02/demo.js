@@ -225,3 +225,22 @@
 // arr.unshift("123");
 // console.log(arr);
 // console.log(result);
+/**--------------------Math-----------------
+ * PI
+ *-----------------------------------------
+ * == sqrt
+ * == pow(2, 3)
+ * == abs
+ * ----- sign --> 1 --> positive
+ *             -> -1 --> negative
+ *             -> zero --> Zero
+ * -- max
+ * -- min
+ * -- round
+ * -- floor
+ * -- ceil
+ * -- radom
+ * --------------------------------------------
+ * */
+// console.log(Math.sin((90 * Math.PI) / 180));
+// console.log(Math.floor(Math.random() * 10));
