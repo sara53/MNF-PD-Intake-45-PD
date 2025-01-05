@@ -1,0 +1,15 @@
+== functions 
+    -- built in functions
+    -- user defined functions
+        -- function statement
+        -- function expression
+        -- callback function
+        -- IIFE (self Invoked)
+        -- Anonymous function
+
+== Hoisting
+== String API
+== Array 
+
+-----------------------------------------
+-- Date Object (search) -- 
