@@ -1,0 +1,5 @@
+-- function execution in memory
+-- local scope VS Global scope
+-- Shadwing
+-- Object 
+-- DOM 
