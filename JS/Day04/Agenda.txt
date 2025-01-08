@@ -1,0 +1,39 @@
+// DOM --> document Object Model
+/** How to select an element from Dom --------
+ * -------------------------------------------
+ * Methods
+ * -------------------------------------------
+ * -- getElementById ===> Element | null
+ * -- querySelector ===> Element | null
+ * -- getElementsByClassName ===> collection
+ * -- getElementsByTagName ===> collection
+ * -- getElementsByName ===> collection
+ * -- querySelectorAll ===> NodeList
+ *------------------- Props --------------
+ * == document.body --> select body
+ * == document.links
+ * == document.images
+ * == document.forms
+ * == element.firstElementChild
+ * == element.lastElementChild
+ * == element.lastElementChild
+ * == element.firstChild
+ * == element.lastChild
+ */
+/** Change Content
+ * -- innerText
+ * -- innerHTML
+ * -- textContent -- ( Search )
+ *---------------------------------------
+    == value
+    == checked
+ *
+ * */
+ /**
+ * Attributes
+ * -- getAttribute
+ * -- setAttribute
+ * -- removeAttribute
+ * -- hasAttribute
+ * -- toggleAttributes
+ */
