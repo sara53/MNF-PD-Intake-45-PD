@@ -1,0 +1,11 @@
+-- BOM -- Browser Object Model
+    -- window
+    -- screen (search)
+    -- history
+    -- location
+    -- navigator
+
+-- Events
+    -- Add attribute on js Element
+    -- attach function
+    -- addEventListener
