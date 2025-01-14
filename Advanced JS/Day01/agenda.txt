@@ -1,0 +1,6 @@
+--  This and This Pattern
+--  call - bind -- apply
+--  closure
+--  Factory Pattern
+--  Function Constructor
+
